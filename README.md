@@ -1,8 +1,8 @@
 
 
-# make a directory named  
+# make a directory named  "directory"
 
-**unzip all the directories here**
+**unzip all the directories here. i couldnot transfer here due to size issue**
 
 # first rule in snakemake
 
